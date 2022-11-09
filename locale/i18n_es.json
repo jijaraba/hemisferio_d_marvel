@@ -1,0 +1,11 @@
+{
+  "common": {
+    "app_name": "Marvel",
+    "welcome": "Bienvenido \na Marvel",
+    "welcome_content": "Test para la empresa Hemisferio D.",
+    "genericError": "Uh-oh!",
+    "genericErrorSubtitle": "Pareces perdido en tu viaje, \nintente de nuevo",
+    "removeFilters": "Eliminar filtros",
+    "loadMore": "Leer mas"
+  }
+}
